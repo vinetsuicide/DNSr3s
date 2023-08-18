@@ -13,7 +13,7 @@ script performs DNS resolution for a given domain name, allowing you to retrieve
 
 ## Usage
 
-1. git clone
+1. git clone https://github.com/vinetsuicide/DNSr3s.git
 
 2. cd DNSr3s
 
